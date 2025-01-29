@@ -1,0 +1,19 @@
+{
+  "name": "formly-reactjs-styles",
+  "version": "1.0.1",
+  "description": "Tailwind styles compiled and ready out of the box without installing tailwind",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npm version patch && npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisCoder9000/formly-reactjs-styles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisCoder9000/formly-reactjs-styles/issues"
+  },
+  "homepage": "https://github.com/ChrisCoder9000/formly-reactjs-styles#readme"
+}
