@@ -1,6 +1,6 @@
 {
   "name": "formly-reactjs-styles",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Tailwind styles compiled and ready out of the box without installing tailwind",
   "main": "index.js",
   "scripts": {
